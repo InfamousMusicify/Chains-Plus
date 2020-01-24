@@ -8,7 +8,7 @@ Chains+
      Can be Renamed or enchanted afterward, also works with plated elytras.  
      but it wont transfer health attributes.
      
-Thannk you for checking out the pack!  
+Thank you for checking out the pack!  
 I hope you enjoy!  
 Inspired by a Transaction in my other pack "Blockmart".
 
