@@ -1,5 +1,6 @@
 Chains+
-     Craft Enhanced Chainmail which is actually worth using.
+     
+   Craft Enhanced Chainmail which is actually worth using.
      
           This datapack adds the ability to turn normal chainmail into something that is actually useful.
      Crafting:
