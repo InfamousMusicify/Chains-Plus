@@ -10,6 +10,8 @@ Chains+
      Can be Renamed or enchanted afterward, also works with plated elytras.  
      but it wont transfer health attributes.
      
+     (Also, when wearing the chainmail on login you'll get 2 full health bars so you dont have to eat every login.)
+     
 Thank you for checking out the pack!  
 I hope you enjoy!  
 Inspired by a Transaction in my other pack "Blockmart".
