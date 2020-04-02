@@ -12,6 +12,10 @@ Chains+
      (Also, when wearing the chainmail on login you'll get 2 full health bars so you dont have to eat every login.)
      (Trouble Updating Versions? Install new version, delete old version, "/funtion chains:uninstall" and then "/reload")
      (Version 1.1- Used end crystal instead of nether star.)
+     
+How to Install a Datapack:
+https://www.youtube.com/watch?v=4Dxzw12TQcg
+
 Thank you for checking out the pack!  
 I hope you enjoy!  
 Inspired by a Transaction in my other pack "Blockmart".
