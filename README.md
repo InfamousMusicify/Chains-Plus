@@ -4,7 +4,7 @@ Chains+
      
           This datapack adds the ability to turn normal chainmail into something that is actually useful.
      Crafting:
-          Throw any set of chainmail, and Nether Star and a Totem on top of and enchanting table together,
+          Throw any set of chainmail, and Nether Star and a Totem on top of an anvil together,
           and your Chainmail will be enhanced, your max health will be x2 with the armor on.  
      
      Installation: Extract files until you get a file called ChainsV1.x.ZIP and stick that zip in your datapacks folder.
