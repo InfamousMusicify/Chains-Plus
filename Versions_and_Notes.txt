@@ -7,9 +7,7 @@ Cleaned code, fixed some excess stuff, better preformance.
 
      Version 1.3:
      Fixed Login Healing
-~~
-I am sure that I did something important in this update.  But I don't remember what it is because I started this notes file later.
-But I think It was something to do with multiplayer bug fixes.
-~~
+~~I am sure that I did something important in this update.  But I don't remember what it is because I started this notes file later.
+But I think It was something to do with multiplayer bug fixes.~~
 
 #
