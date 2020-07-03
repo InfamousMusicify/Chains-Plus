@@ -2,7 +2,7 @@ Chains+
      
    Craft Enhanced Chainmail which is actually worth using.
    
-   Click ChanisVx.x and then click download.
+   Click ChainsVx.x and then click download.
    Paste the datapack into your .minecraft/saves/world/datapacks folder.
      
           This datapack adds the ability to turn normal chainmail into something that is actually useful.
