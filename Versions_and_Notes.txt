@@ -1,5 +1,8 @@
 #
 
+     Version 1.4.4:
+Added Advancement Menu Info/Credits.
+
      Version 1.4.2:
 Added Help Command. Updated Crafting to use Anvil Instead of ground.(Throw items on top of anvil.)
 /trigger chains_help
