@@ -2,7 +2,7 @@
 # Minecraft 1.16 and above:
      Version 1.5:
 Updated Data merge for 1.16, now works properly.
-Rebalanced health modifiers for a more organic experience. (also mojang twqeaked something with the modifiers so I had to modify the balance)
+Rebalanced health modifiers for a more organic experience. (also mojang tweaked something with the modifiers so I had to modify the balance)
 
 # Minecraft 1.15 and below:
      Version 1.4.4:
