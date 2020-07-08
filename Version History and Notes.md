@@ -7,6 +7,7 @@ Fixed Armor rating on enhanced chainmail.  Updated/cleaned code.  Updated help c
      Version 1.5:
 Updated Data merge for 1.16, now works properly.
 Rebalanced health modifiers for a more organic experience. (also mojang tweaked something with the modifiers so I had to modify the balance)
+(added enchant glint to modified armor)
 
 # Minecraft 1.15 and below:
      Version 1.4.4:
