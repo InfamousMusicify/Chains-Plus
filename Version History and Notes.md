@@ -1,5 +1,9 @@
 # Version History and Update Notes
 # Minecraft 1.16 and above:
+
+     Version 1.5.1:
+Fixed Armor rating on enhanced chainmail.  Updated/cleaned code.  Updated help command code.
+
      Version 1.5:
 Updated Data merge for 1.16, now works properly.
 Rebalanced health modifiers for a more organic experience. (also mojang tweaked something with the modifiers so I had to modify the balance)
