@@ -1,6 +1,9 @@
 # Version History and Update Notes
 # Minecraft 1.16 and above:
 
+     Version 1.5.2:
+Updated Help Command.
+
      Version 1.5.1:
 Fixed Armor rating on enhanced chainmail.  Updated/cleaned code.  Updated help command code.
 
