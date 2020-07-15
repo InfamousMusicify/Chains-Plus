@@ -1,6 +1,9 @@
 # Version History and Update Notes
 # Minecraft 1.16 and above:
 
+     Version 1.5.4:
+Removed enchant glint as it wipes enchants.  :(
+
      Version 1.5.3:
 Cleaned Code, Perfomance Boosted!  Minor bug fixes.
 
