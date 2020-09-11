@@ -1,5 +1,11 @@
 # Version History and Update Notes
-# Minecraft 1.16 and above:
+
+# Minecraft 1.16.2:
+
+     Version 1.5.5
+Aethetic update for a more confident user installation experience.
+
+# Minecraft 1.16-.1:
 
      Version 1.5.4:
 Removed enchant glint as it wipes enchants.  :(
