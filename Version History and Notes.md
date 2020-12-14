@@ -1,11 +1,16 @@
 # Version History and Update Notes
 
-# Minecraft 1.16.2:
+# Minecraft 1.16:
+### Minecraft 1.16.4:
+     Version 1.5.6:
+Performance Update: reduced tick speed.
+
+### Minecraft 1.16.2:
 
      Version 1.5.5
-Aethetic update for a more confident user installation experience.
+Aesthetic update for a more confident user installation experience.
 
-# Minecraft 1.16-.1:
+### Minecraft 1.16-.1:
 
      Version 1.5.4:
 Removed enchant glint as it wipes enchants.  :(
