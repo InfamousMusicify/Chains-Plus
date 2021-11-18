@@ -1,5 +1,3 @@
-# This Pack is deprecated.
-
 
 # Chains+
 Enhanced Chainmail / Chains+
