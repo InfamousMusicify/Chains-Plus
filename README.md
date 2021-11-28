@@ -1,6 +1,6 @@
 
 # [Chains+]()  
-### Chains+ / Enhanced Chainmail - Minecraft: Java Edition - Data Pack  
+### Minecraft: Java Edition - Data Pack  
 
 Craft Chainmail into somtething worth using!   
 This datapack allows you to add a health modifier to chestplates and elytras.  
