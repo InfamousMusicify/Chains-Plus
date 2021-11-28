@@ -8,7 +8,10 @@ This datapack allows you to add a health modifier to chestplates and elytras.
 
 **Crafting:**  
 Obtain a totem of undying and a nether star, put them in a crafting grid, a knowledge book will appear, click it and you will recive a Chains+ crafting item.  
+
 Throw your Chestpiece or elytra on the ground and right click with the Chains+ Item, the Chestpiece will be modified.  
+__The modified chestpiece will grant you another row of health.__
+
 (When wearing the Enhanced armor on login you'll get 2 full health bars so you dont have to eat every login.)  
 (Trouble Updating Versions? Install new version, delete old version, "/funtion chains:uninstall" and then "/reload")  
 
