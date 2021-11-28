@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Chains V1.5.6           ",
+        "description": "/trigger chains_help - for help crafting and using enhanced chainmail.",
+        "icon": {
+            "item": "minecraft:chainmail_chestplate"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "main:main/chains",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
