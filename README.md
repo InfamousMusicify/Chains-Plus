@@ -2,9 +2,9 @@
 # [Chains+]()  
 ### Minecraft: Java Edition - Data Pack  
 
-Craft Chainmail into somtething worth using!   
+__*Craft Chainmail into somtething worth using!*   
 This datapack allows you to add a health modifier to chestplates and elytras.  
-(Elytras will get netherite plating)  
+(Elytras will get netherite plating)__  
 
 **Crafting:**  
 Obtain a totem of undying and a nether star, put them in a crafting grid, a knowledge book will appear, click it and you will recive a Chains+ crafting item.  
