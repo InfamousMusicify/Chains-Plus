@@ -1,33 +1,25 @@
 
-# Chains+
-Enhanced Chainmail / Chains+
+# [Chains+]()  
+### Chains+ / Enhanced Chainmail - Minecraft: Java Edition - Data Pack  
 
-   Craft Enhanced Chainmail which is actually worth using.
-   This datapack adds the ability to turn normal chainmail into something that is actually useful.
-   (adds health modifiers to the armor pieces)
+Craft Chainmail into somtething worth using!   
+This datapack allows you to add a health modifier to chestplates and elytras.  
+(Elytras will get netherite plating)  
 
-Installation:
+**Crafting:**  
+Obtain a totem of undying and a nether star, put them in a crafting grid, a knowledge book will appear, click it and you will recive a Chains+ crafting item.  
+Throw your Chestpiece or elytra on the ground and right click with the Chains+ Item, the Chestpiece will be modified.  
+(When wearing the Enhanced armor on login you'll get 2 full health bars so you dont have to eat every login.)  
+(Trouble Updating Versions? Install new version, delete old version, "/funtion chains:uninstall" and then "/reload")  
 
-     Click ChainsVx.x and then click download.
-     Paste the datapack into your .minecraft/saves/world/datapacks folder.
+# [🔗Download🔗](https://github.com/InfamousMusicify/Enhanced-Chains/archive/refs/heads/master.zip)
 
-Crafting:
+[How to Install a Datapack](https://www.youtube.com/watch?v=4Dxzw12TQcg)
 
-     Throw any set of chainmail, and Nether Star and a Totem on top of an anvil together,
-     and your Chainmail will be enhanced, your max health will be x2 with the armor on.  
-     (Also, when wearing the chainmail on login you'll get 2 full health bars so you dont have to eat every login.)
-     (Trouble Updating Versions? Install new version, delete old version, "/funtion chains:uninstall" and then "/reload")
-     (Version 1.1- Used end crystal instead of nether star.)
+Thank you for checking out the pack!   
+I hope you enjoy!   
+Inspired by a Transaction in my other pack "Blockmart".   
 
-How to Install a Datapack:
-https://www.youtube.com/watch?v=4Dxzw12TQcg
+Cheers   
 
-~~~
-Thank you for checking out the pack!  
-I hope you enjoy!  
-Inspired by a Transaction in my other pack "Blockmart".  
-~~~
-
-Cheers  
-
-- Infamous
+- Infamous 
