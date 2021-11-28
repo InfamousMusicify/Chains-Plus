@@ -4,6 +4,6 @@
 # effect give @s minecraft:instant_health 4 2
 
 # # # 
-effect give @s minecraft:instant_health 1 3
+effect give @s minecraft:instant_health 1 8
 # remove firecraft tag from healed player
 tag @s remove chains_heal
