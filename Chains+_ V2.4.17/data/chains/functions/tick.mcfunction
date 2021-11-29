@@ -22,6 +22,6 @@ schedule function chains:tick 1s
 # Main Functions
 execute as @a[scores={chains_log=1..}] unless entity @s[tag=FireCraft] run function chains:login
 # execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:chainmail_helmet",Count:1b},OnGround:1b}] at @s run execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:chainmail_chestplate",Count:1b},OnGround:1b},distance=..1] at @s run execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:chainmail_leggings",Count:1b},OnGround:1b},distance=..1] at @s run execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:chainmail_boots",Count:1b},OnGround:1b},distance=..1] at @s run execute as @e[type=item,nbt={Item:{id:"minecraft:totem_of_undying",Count:1b},OnGround:1b},distance=..1] at @s run execute as @e[type=item,nbt={Item:{id:"minecraft:nether_star",Count:1b},OnGround:1b},distance=..1] if block ~ ~-1 ~ #minecraft:anvil run function chains:craft
-execute at @a[scores={chains_craft=1..}] at @e[sort=nearest,distance=..10,type=minecraft:armor_stand,tag=Cursed] run function chains:precraft
+execute at @a[scores={chains_craft=1..}] at @e[sort=nearest,distance=..10,type=minecraft:armor_stand,tag=Cursed_chains] run function chains:precraft
 
 # # # 

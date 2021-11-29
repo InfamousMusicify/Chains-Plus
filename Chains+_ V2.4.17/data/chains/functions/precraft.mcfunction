@@ -1,5 +1,5 @@
 # Firing as player who crafted chains (used spawn egg)
-kill @e[type=minecraft:armor_stand,tag=Cursed,distance=..10,sort=nearest]
+kill @e[type=minecraft:armor_stand,tag=Cursed_chains,distance=..10,sort=nearest]
 # execute as @a[scores={chains_craft=1..}] run function chains:craft
 execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:leather_chestplate"}},distance=..1] run function chains:craft
 execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:iron_chestplate"}},distance=..1] run function chains:craft
