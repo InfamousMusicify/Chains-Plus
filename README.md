@@ -17,7 +17,7 @@ __The modified chestpiece will grant you another row of health.__
 
 # [🔗Download🔗](https://github.com/InfamousMusicify/Enhanced-Chains/archive/refs/heads/master.zip)
 
-[How to Install a Datapack](https://www.youtube.com/watch?v=4Dxzw12TQcg)
+[How to Install a Datapack](https://youtu.be/JHEjZlVlqGE)
 
 Thank you for checking out the pack!   
 I hope you enjoy!   
