@@ -15,7 +15,7 @@
             },
             {
               "function": "set_nbt",
-              "tag": "{display:{Name:'{\"text\":\"Nether Totem\",\"color\":\"white\",\"italic\":false}',Lore:['{\"text\":\"Craft Enhanced Chains\",\"color\":\"gray\",\"italic\":false}']},CustomModelData:2,Tag:Chains,EntityTag:{id:\"minecraft:armor_stand\",Invisible:1b,Tags:[\"Cursed_chains\"]},Enchantments:[{}]}"
+              "tag": "{display:{Name:'{\"text\":\"Living Totem\",\"color\":\"white\",\"italic\":false}',Lore:['{\"text\":\"Craft Enhanced Chains\",\"color\":\"gray\",\"italic\":false}']},CustomModelData:2,Tag:Chains,EntityTag:{id:\"minecraft:armor_stand\",Invisible:1b,Tags:[\"Cursed_chains\"]},Enchantments:[{}]}"
             }
           ]
         }
