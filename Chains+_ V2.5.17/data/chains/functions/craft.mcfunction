@@ -17,6 +17,9 @@ execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:netherite_chestplate"
 execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:elytra"}},distance=..3] run data merge entity @s {Item:{id:"minecraft:elytra",Count:1b,tag:{display:{Lore:['{"text":"Chains+","color":"gray","italic":false}']},AttributeModifiers:[{AttributeName:"generic.armor",Name:"generic.armor",Amount:8,Operation:0,UUID:[I;-140571472,335955905,-1892815576,-1659070583],Slot:"chest"},{AttributeName:"generic.armor_toughness",Name:"generic.armor_toughness",Amount:3,Operation:0,UUID:[I;-132827365,-672116832,-1276458769,1721235389],Slot:"chest"},{AttributeName:"generic.max_health",Name:"generic.max_health",Amount:20,Operation:0,UUID:[I;-1344940209,645090708,-1488908669,-749476811],Slot:"chest"}]}}}
 
 # playsound to nearby players
-playsound minecraft:block.anvil.use master @a[distance=..6]
-particle minecraft:poof ~ ~ ~
+playsound minecraft:block.respawn_anchor.deplete master @a[distance=..25]
+playsound minecraft:block.enchantment_table.use master @a[distance=..25]
+particle minecraft:soul_fire_flame ~ ~-.25 ~ .5 .5 .5 .25 325 force
+particle minecraft:flame ~ ~-.25 ~ .05 .05 .05 .15 75 force
+particle minecraft:poof ~ ~.25 ~
 # # # 
