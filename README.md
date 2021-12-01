@@ -15,6 +15,8 @@ __The modified chestpiece will grant you another row of health.__
 (When wearing the Enhanced armor on login you'll get 2 full health bars so you dont have to eat every login.)  
 (Trouble Updating Versions? Install new version, delete old version, "/funtion chains:uninstall" and then "/reload")  
 
+### Hit the advancements key to see in game info and help!
+
 # [🔗Download🔗](https://github.com/InfamousMusicify/Enhanced-Chains/archive/refs/heads/master.zip)
 
 [How to Install a Datapack](https://youtu.be/JHEjZlVlqGE)
