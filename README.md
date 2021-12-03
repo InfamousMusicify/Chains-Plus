@@ -17,7 +17,7 @@ __The modified chestpiece will grant you another row of health.__
 
 ### Hit the advancements key to see in game info and help!
 
-# [🔗Download🔗](https://github.com/InfamousMusicify/Enhanced-Chains/archive/refs/heads/master.zip)
+# [🔗Download🔗](https://github.com/InfamousMusicify/Chains-Plus/archive/refs/heads/master.zip)
 
 [How to Install a Datapack](https://youtu.be/JHEjZlVlqGE)
 
