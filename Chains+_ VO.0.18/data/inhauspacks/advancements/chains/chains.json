@@ -3,10 +3,10 @@
         "title": "Chains Crafting and Use                                                              ",
         "description": ["",
         {"text":"Totem of undying + Nether Star = Chains+ crafting item. ","color":"gold"},{"text":"\n"},
-        {"text":"Drop Chestpiece/elytra on the ground, right click it with Chains+,","color":"green"},{"text":"\n"},
-        {"text":"The Chestpiece will be modified.","color":"green"},{"text":"\n"},
-        {"text":"Chestpiece grants 2nd row of health.","color":"yellow"},{"text":"\n"},
-        {"text":"(elytras get netherite plating too)","color":"red"}
+        {"text":"Drop Chainmail/elytra on the ground, right click it with Chains+,","color":"green"},{"text":"\n"},
+        {"text":"Any Chainmail/Elytra will be modified.","color":"dark_green"},{"text":"\n"},
+        {"text":"Full set grants 2nd row of health.","color":"yellow"},{"text":"\n"},
+        {"text":"(elytras get netherite plating)","color":"red"}
     ],
     "icon": {
         "item": "minecraft:chainmail_chestplate"
