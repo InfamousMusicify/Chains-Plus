@@ -2,7 +2,7 @@
 # [Chains+]()  
 ### Minecraft: Java Edition - Data Pack  
 
-__*Craft Chainmail into somtething worth using!*   
+__*Craft Chainmail into something worth using!*   
 This datapack allows you to add a health modifier to chestplates and elytras.  
 (Elytras will get netherite plating)__  
 
