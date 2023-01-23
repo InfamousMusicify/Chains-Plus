@@ -18,7 +18,7 @@ __A Full set will grant you another row of health.__
 ### Hit the advancements key to see in game info and help!
 
 # [🔗Download🔗](https://github.com/InfamousMusicify/Chains-Plus/archive/refs/heads/master.zip)
-# [🔗Textures🔗](https://github.com/InfamousMusicify/InHaus-Textures)  
+# [🔗Textures🔗](https://github.com/InfamousMusicify/InHaus-Textures/releases) 
 
 [How to Install a Datapack](https://youtu.be/JHEjZlVlqGE)
 
