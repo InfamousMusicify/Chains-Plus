@@ -8,15 +8,3 @@ execute as @s[type=minecraft:item,nbt={Item:{id:"minecraft:chainmail_boots"}}] r
 
 # Elytra
 execute as @s[type=minecraft:item,nbt={Item:{id:"minecraft:elytra"}}] run data merge entity @s {Item:{id:"minecraft:elytra",Count:1b,tag:{display:{Lore:['{"text":"Chains+","color":"gray","italic":false}']},AttributeModifiers:[{AttributeName:"generic.armor",Name:"generic.armor",Amount:7,Operation:0,UUID:[I;-393355975,-782808874,-1784452872,1872949049],Slot:"chest"},{AttributeName:"generic.armor_toughness",Name:"generic.armor_toughness",Amount:3,Operation:0,UUID:[I;447956734,-1386725181,-1995755764,1945375136],Slot:"chest"},{AttributeName:"generic.knockback_resistance",Name:"generic.knockback_resistance",Amount:0.1,Operation:0,UUID:[I;1421917727,-678606559,-1182251326,-528978648],Slot:"chest"},{AttributeName:"generic.max_health",Name:"generic.max_health",Amount:8,Operation:0,UUID:[I;1516177014,1883981431,-2006986176,1342854915],Slot:"chest"}]}}}
-
-
-
-# playsound to nearby players
-playsound minecraft:block.respawn_anchor.deplete master @a[distance=..25]
-playsound minecraft:block.enchantment_table.use master @a[distance=..25]
-particle minecraft:soul_fire_flame ~ ~-.25 ~ .5 .5 .5 .25 325 force
-particle minecraft:flame ~ ~-.25 ~ .05 .05 .05 .15 75 force
-particle minecraft:poof ~ ~.25 ~
-
-
-

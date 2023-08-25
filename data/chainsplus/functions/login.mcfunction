@@ -1,5 +1,4 @@
 # chain:test1 (prereqs to Heal player at login)
-# called from tick unless player has tag for Chainmail.
 
 # Chains
 tag @s[scores={chainsplus_log=1..},nbt={Inventory:[{Slot:103b, id: "minecraft:chainmail_helmet",tag:{display:{Lore:['{"text":"Chains+","color":"gray","italic":false}']}}}]}] add chainsplus_heal

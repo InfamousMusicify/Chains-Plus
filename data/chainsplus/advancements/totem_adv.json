@@ -1,6 +1,6 @@
 {
     "criteria": {
-      "crafted_chains": {
+      "crafted_totem": {
         "trigger": "minecraft:recipe_crafted",
         "conditions": {
           "player": [
@@ -12,11 +12,11 @@
               }
             }
           ],
-          "recipe_id": "chainsplus:chains_rcp"
+          "recipe_id": "chainsplus:totem_rcp"
         }
       }
     },
     "rewards": {
-      "function": "chainsplus:crafted_chains"
+      "function": "chainsplus:crafted_totem"
     }
   }
