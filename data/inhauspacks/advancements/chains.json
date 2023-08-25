@@ -1,0 +1,21 @@
+{
+    "display": {
+        "title": "Crafting and Usage                                                                                       ",
+        "description": ["",
+        {"text":"Totem of Undying + Nether Star = Living Totem. ","color":"gold"},{"text":"\n"},
+        {"text":"Drop any Chainmail/Elytra on the ground and right click it with the Living Totem to craft Chains+ armor.","color":"green"},{"text":"\n"},
+        {"text":"Full set of armor grants 2nd row of health. (elytras get netherite plating)","color":"yellow"}
+    ],
+    "icon": {
+        "item": "minecraft:chainmail_chestplate"
+    },
+    "announce_to_chat": false,
+    "show_toast": false
+    },
+    "parent": "inhauspacks:chains_pack",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

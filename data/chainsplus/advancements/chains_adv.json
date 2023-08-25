@@ -1,0 +1,22 @@
+{
+    "criteria": {
+      "crafted_chains": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type": "minecraft:player"
+              }
+            }
+          ],
+          "recipe_id": "chainsplus:chains_rcp"
+        }
+      }
+    },
+    "rewards": {
+      "function": "chainsplus:crafted_chains"
+    }
+  }

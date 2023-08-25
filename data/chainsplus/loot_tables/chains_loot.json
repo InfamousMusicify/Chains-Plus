@@ -1,0 +1,25 @@
+{
+  "type": "advancement_reward",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:pig_spawn_egg",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Living Totem\",\"color\":\"white\",\"italic\":false}',Lore:['{\"text\":\"Craft Chains+\",\"color\":\"gray\",\"italic\":false}']},CustomModelData:112818,Tag:cursed_chainsplus,EntityTag:{id:\"minecraft:armor_stand\",Invisible:1b,Tags:[\"cursed_chainsplus\"]},Enchantments:[{}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
