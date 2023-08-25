@@ -10,13 +10,14 @@ This datapack allows you to add a health modifier to chainmail armor and elytras
 ## [Download🔗](https://github.com/InfamousMusicify/Chains-Plus/blob/master/Downloads.md) - [Textures🌄](https://github.com/InfamousMusicify/InHaus-Textures/blob/master/Downloads.md) - [Discord🔊](https://discord.gg/T5XhN4tXgW)          
 
 **Crafting:**  
-Obtain a totem of undying and a nether star, put them in a crafting grid, a knowledge book will appear, click it and you will recive a Living Totem.  
+Obtain a totem of undying and a nether star, put them in a crafting grid,   
+a knowledge book will appear, click it and you will recive a Living Totem.    
 
-Throw your Chainmail set and or elytra on the ground and right click with the Living Totem, the Armor will be modified.  
-__A Full set will grant you another row of health.__
+Throw your Chainmail set and or elytra on the ground and right click with the Living Totem, the Armor will be modified.    
+__A Full set will grant you another row of health.__    
 
-(When wearing the Enhanced armor on login you'll get 2 full health bars so you dont have to eat every login.)  
-(Trouble Updating Versions? Install new version, delete old version, "/funtion chains:uninstall" and then "/reload")  
+(When wearing the Enhanced armor on login you'll get 2 full health bars so you dont have to eat every login.)    
+(Trouble Updating Versions? Install new version, delete old version, "/funtion chains:uninstall" and then "/reload")     
 
 
 [🔗 How to Install a Datapack](https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-data-packs/)  
