@@ -1,7 +1,7 @@
 ## [Releases](https://github.com/InfamousMusicify/Chains-Plus/releases/) - [Tags](https://github.com/InfamousMusicify/Chains-Plus/tags/) - [Branches](https://github.com/InfamousMusicify/Chains-Plus/branches) - [Archive](https://github.com/InfamousMusicify/Chains-Plus/releases/tag/Archive)       
 
 
-### [🔗1.20](https://github.com/InfamousMusicify/Chains-Plus/releases/download/1.20/Chains+_.V3.0.1-1.20.zip) (1.19-1.20+)     
+### [🔗1.20](https://github.com/InfamousMusicify/Chains-Plus/releases/download/1.20/Chains+_.V3.0.2-1.20.zip) (1.19-1.20+)     
 
 #### Older Versions Below:  (backports coming soon.)
 
