@@ -9,6 +9,6 @@ tag @e[type=minecraft:item,nbt={Item:{id:"minecraft:chainmail_boots"}},limit=1,d
 execute as @e[type=minecraft:item,tag=chainsplus_craftable,distance=..1] run function chainsplus:craft
 execute at @e[limit=1,type=minecraft:item,tag=chainsplus_craftable,distance=..1] run function chainsplus:craft_fx
 
-kill @e[type=minecraft:armor_stand,tag=cursed_chainsplus]
+kill @e[type=minecraft:armor_stand,tag=chainsplus_entity]
 
 #scoreboard players set @a chainsplus_craft 0

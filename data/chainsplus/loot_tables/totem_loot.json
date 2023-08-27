@@ -15,7 +15,7 @@
             },
             {
               "function": "set_nbt",
-              "tag": "{display:{Name:'{\"text\":\"Living Totem\",\"color\":\"white\",\"italic\":false}',Lore:['{\"text\":\"Craft Chains+\",\"color\":\"gray\",\"italic\":false}']},CustomModelData:112818,Tag:cursed_chainsplus,EntityTag:{id:\"minecraft:armor_stand\",Invisible:1b,Tags:[\"cursed_chainsplus\"]},Enchantments:[{}]}"
+              "tag": "{display:{Name:'{\"text\":\"Living Totem\",\"color\":\"white\",\"italic\":false}',Lore:['{\"text\":\"Craft Chains+\",\"color\":\"gray\",\"italic\":false}']},CustomModelData:112818,Tag:chainsplus_entity,EntityTag:{id:\"minecraft:armor_stand\",Invisible:1b,Tags:[\"chainsplus_entity\"]},Enchantments:[{}]}"
             }
           ]
         }

@@ -4,7 +4,7 @@ schedule clear function chainsplus:tick
 
 
 scoreboard objectives remove chainsplus_log
-
+scoreboard objectives remove chainsplus
 
 # old
 scoreboard objectives remove chainsplus_craft
